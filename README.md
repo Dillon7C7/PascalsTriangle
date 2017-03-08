@@ -1,5 +1,5 @@
 # Pascal's Triangle
-Prints out n rows of Pascal's Triangle. For example, an input of 3 would output
+Prints out <b>n</b> rows of Pascal's Triangle. For example, an input of 3 would output
 
        1
       1 1   
