@@ -1,0 +1,1 @@
+# Pascal's Triangle\nPrints out n rows of Pascal's Triangle. For example, an input of 3 would output\n    1\n   1 1\n 1 2 1\n1 3 3 1\n\nThe program loops until a user enters -1. Error checking is included.
